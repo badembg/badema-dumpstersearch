@@ -3,6 +3,8 @@
 A lightweight and optimized **qb-dumpster script** for **QBCore** that allows players to search dumpsters and receive random loot rewards. Fully open-source and customizable to fit your server needs.
 
 ---
+**☕Buy me a coffe - https://ko-fi.com/badembg**
+---
 
 ## 🎥 Preview
 *Coming soon...*
