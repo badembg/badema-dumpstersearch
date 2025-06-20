@@ -1,5 +1,5 @@
 # Dunpster Search Script
-Dumpster Search script for FiveM qb-core
+This is a simple and optimized qb-dumpster script for QBCore. Allows players to search dumpsters and receive random loot.
 
 Preview: Soon
 
